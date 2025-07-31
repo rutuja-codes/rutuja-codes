@@ -1,4 +1,4 @@
-##                                      Hi👋, I'm Rutuja Pawar
+                                                    ##Hi👋, I'm Rutuja Pawar
 
 👩‍💻 I'm a frontend developer who loves building clean and interactive web apps. I work with Angular, Ionic, TypeScript, and more.
 
