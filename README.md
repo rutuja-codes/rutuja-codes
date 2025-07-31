@@ -4,4 +4,4 @@
 
 💡 In my free time, I create personal projects to learn and grow. Check out my repositories — I hope you find something interesting!
 
-📫 Reach me via @Linkedin [LinkedIn](https://www.linkedin.com/in/your-profile) or at nehakeskar48@gmail.com.
+📫 Reach me via @Linkedin [LinkedIn](https://www.linkedin.com/in/your-profile) or at rutujapawar200021@gmail.com.
